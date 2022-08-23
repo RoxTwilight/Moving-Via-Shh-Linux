@@ -1,12 +1,12 @@
 #!/bin/sh
 
-        ftp_site="192.168.1.2"
-        username="rox"
-        PASSWD="7875"
+        ftp_site="Your Ip"
+        username=""
+        PASSWD=""
 #source path
-        spath="/home/rox/songs"
+        spath=""
 #Remote Path
-        rpath="/C:/Users/Rox/1"
+        rpath=""
 
         cd $spath
 
